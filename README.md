@@ -8,31 +8,32 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi there, I'm Aiden!
 
-## 👋 Hello there, I'm Aiden!
-🌱 Currently learning Java and building a strong foundation in software development. <br>
-💻 Passionate about solving problems through code and exploring new technologies. <br>
-🎯 Focused on mastering object-oriented programming, clean code principles, and project development. <br>
-📚 Excited to grow my skills and contribute to impactful projects. <br>
+I'm an aspiring software developer currently focused on learning **Java** and building a solid foundation in **backend development**.
 
-## 👨🏻‍💻 Languages and Tools:
-<b> Git </b>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<br>
-    
-<b> Java </b>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<br>
+- 🌱 Actively learning and experimenting with Java, Spring Framework, and database systems.  
+- 💻 Passionate about solving real-world problems through clean, efficient code.  
+- 🎯 Committed to mastering **object-oriented programming**, **clean code principles**, and **scalable project architecture**.  
+- 📚 Eager to grow as a developer and contribute to meaningful, open-source or collaborative projects.
 
-<b> MongoDB </b>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<br>
+---
 
-<b> MySQL </b>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
-<br>
+## 🛠️ Tech Stack & Tools
 
-<b> SpringIO </b>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<br>
+Here are some of the technologies I’m working with:
 
+| **Git**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |
+| **Java**        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> |
+| **MongoDB**     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> |
+| **MySQL**       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> |
+| **Spring**      | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> |
+
+---
+
+## 📫 Let's Connect!
+
+If you’d like to connect, collaborate, or just chat about tech:
+
+- [LinkedIn](#)  
+- [GitHub](#)
