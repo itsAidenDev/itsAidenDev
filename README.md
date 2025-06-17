@@ -53,7 +53,7 @@ I'm an aspiring software developer currently focused on learning **Java** and bu
 
 - 🧩 Software design principles (SOLID, DRY, KISS)
 - 🌐 REST APIs and web backend architecture
-- 🔐 Cybersecurity fundamentals (network security, OWASP Top 10, ethical hacking basics)
+- 🔐 Cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics)
 
 ---
 
