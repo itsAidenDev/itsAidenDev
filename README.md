@@ -9,8 +9,23 @@
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aiden-romero-garcia/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://dev.to/itsaidendev">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+</p>
+
+---
 
 💻 **Software Developer | Java & Spring Boot Specialist | Backend Enthusiast**
 
@@ -114,7 +129,7 @@ Here are some of my highlighted works:
 If you’d like to connect, collaborate, or just chat about tech:
 
 <!-- - 🌐 Portfolio: [your-portfolio-link](#)  -->
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn]()  
 - 💻 [GitHub](#)  
 - ✉️ [Email](aiden95rg@gmail.com)
 
