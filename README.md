@@ -24,16 +24,16 @@
   <img height="50" src="https://github.com/user-attachments/assets/5130fb54-61cf-4853-b40b-5197ad4d7ab6"/>
 </a>
 
-<!--
 <a href="https://dev.to/itsaidendev">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
--->
 
-<a href="https://discord.com/users/yumenushii">
+<a href="#" title="Copy: yumenushii">
   <img height="50" src="https://github.com/user-attachments/assets/dfa70b4c-6a1e-41b9-98cf-7728ca59a794" />
 <a/>
-  <!-- - 🌐 Portfolio: [your-portfolio-link](#)  -->
+
+<!--
+  - 🌐 Portfolio: [your-portfolio-link](#)  -->
 
 </p>
 
