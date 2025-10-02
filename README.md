@@ -97,8 +97,10 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=virtualbox&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=canva&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white)   ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat&logo=powershell&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=virtualbox&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=canva&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white)   ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat&logo=powershell&logoColor=white)  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)  ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=flat&logo=obsidian&logoColor=white)  
 
 
