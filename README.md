@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:354dc0,100:a52a8a&text=Hello!&fontColor=ffffff&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:354dc0,100:a52a8a&text=Hello%20there!&fontColor=ffffff&height=100&section=header"/>
 </p>
 
 <img alt="Coding Banner" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/coding-banner-gif.gif?raw=true" width=1330 height=786 align="center"/>
