@@ -53,8 +53,8 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)  
 <img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)  
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat&logo=spring-security&logoColor=white)  
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C.svg?style=flat&logo=spring&logoColor=white)   
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
