@@ -41,7 +41,8 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ## 🚀 About Me
 - 🔭 Working on: **ITA Challenge** (Java + Spring Boot REST API)  
 - 💡 Experienced in building APIs, handling authentication, and database integration  
-- 🎯 Career Goal: Grow as a backend/full-stack developer and contribute to impactful projects  
+- 🎯 Career Goal: Grow as a backend/full-stack developer and contribute to impactful projects
+- 🔐 Currently learning cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics)
 - 📍 Based in Barcelona
 
 
@@ -120,15 +121,4 @@ Here are some of my highlighted works:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAidenDev&layout=compact&theme=radical)
 ![Snake animation](https://raw.githubusercontent.com/itsAidenDev/itsAidenDev/output/github-contribution-grid-snake-dark.svg)
 
-
-
-## 🧠 Currently Learning
-
-- 🔐 Cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics)
-
-
----
-
-
-### Thanks for stopping by! 🙌
 
