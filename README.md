@@ -49,7 +49,7 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 
 ## 🛠️ Tech Stack & Tools
 
-<img alt="Night Coding" src="raw.githubusercontent.com/itsAidenDev/itsAidenDev/refs/heads/main/night-dev-gif.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
 
 ### 🧱 Languages & Frameworks  
 
