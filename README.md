@@ -90,6 +90,15 @@ Here are some of my highlighted works:
 
 --- -->
 
+## 📈 GitHub Stats
+
+![Aiden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsAidenDev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAidenDev&layout=compact&theme=radical)
+
+
+---
+
+
 ## 🧠 Currently Learning
 
 - 🔐 Cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics)
