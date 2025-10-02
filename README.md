@@ -118,9 +118,8 @@ Here are some of my highlighted works:
 
 ![Aiden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsAidenDev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAidenDev&layout=compact&theme=radical)
-![Snake animation](https://github.com/itsAidenDev/itsAidenDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/itsAidenDev/itsAidenDev/output/github-contribution-grid-snake-dark.svg)
 
----
 
 
 ## 🧠 Currently Learning
