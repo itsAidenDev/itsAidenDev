@@ -43,6 +43,7 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 - 💡 Experienced in building APIs, handling authentication, and database integration  
 - 🎯 Career Goal: Grow as a backend/full-stack developer and contribute to impactful projects
 - 🔐 Currently learning cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics)
+- ✉️ You can shoot me an email at aidenromerogarcia@gmail.com! I'll try to respond as soon as I can.
 - 📍 Based in Barcelona
 
 
@@ -74,11 +75,21 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black) 
 
 
+### 👨‍💻 Operating Systems / Platforms 
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)
+
+
 ### 📊 Productivity & Collaboration
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
+![Taiga](https://img.shields.io/badge/Taiga-444444.svg?style=flat&logo=taiga&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%23007ACC.svg?style=flat&logo=jira&logoColor=white)  
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%23622D91.svg?style=flat&logo=microsoft-teams&logoColor=white)  
 
-### 👨‍💻 Build & CI/CD Tools
+
+### 🗂️ Build & CI/CD Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white)  
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=gradle&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)  
