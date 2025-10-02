@@ -39,12 +39,12 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 
 
 ## 🚀 About Me
-- 🔭 Working on: **ITA Challenge** (Java + Spring Boot REST API)  
-- 💡 Experienced in building APIs, handling authentication, and database integration  
-- 🎯 Career Goal: Grow as a backend/full-stack developer and contribute to impactful projects
-- 🔐 Currently learning cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics)
+- 🔭 Working on: [**ITA Challenge**](https://github.com/IT-Academy-BCN/ita-challenges-backend) (Java + Spring Boot REST API).  
+- 💡 Experienced in **building APIs**, **handling authentication**, and **database integration**.  
+- 🎯 Career Goal: Grow as a backend/full-stack developer and contribute to impactful projects.
+- 🔐 Currently learning cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics).
 - ✉️ You can shoot me an email at aidenromerogarcia@gmail.com! I'll try to respond as soon as I can.
-- 📍 Based in Barcelona
+- 📍 Based in Barcelona.
 
 
 ---
@@ -67,18 +67,17 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
 
 
-### 🧪 Testing & Documentation
-![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)  
-![Mockito](https://img.shields.io/badge/Mockito-1BC0C5.svg?style=flat&logoColor=white)  
-<img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black) 
-
-
 ### 👨‍💻 Operating Systems / Platforms 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)
+<img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
+
+### 🧪 Testing & Documentation
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)  
+![Mockito](https://img.shields.io/badge/Mockito-1BC0C5.svg?style=flat&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black) 
 
 
 ### 📊 Productivity & Collaboration
@@ -124,9 +123,13 @@ Here are some of my highlighted works:
 --- -->
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsAidenDev&show_icons=true&theme=radical" alt="Aiden's GitHub Stats" height="180" style="margin-right: 30px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAidenDev&layout=compact&theme=radical" alt="Top Langs" height="180" />
+</p>
 
-![Aiden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsAidenDev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAidenDev&layout=compact&theme=radical)
-![Snake animation](https://raw.githubusercontent.com/itsAidenDev/itsAidenDev/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsAidenDev/itsAidenDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
