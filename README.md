@@ -80,7 +80,8 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ### 👨‍💻 Operating Systems / Platforms 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)
-<img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
+
+<img width= 400 alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
 
 ### 🧪 Testing & Documentation
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)  ![Mockito](https://img.shields.io/badge/Mockito-1BC0C5.svg?style=flat&logoColor=white)  
