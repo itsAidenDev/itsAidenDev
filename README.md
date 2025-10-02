@@ -55,8 +55,8 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)  
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat&logo=spring-security&logoColor=white)  
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C.svg?style=flat&logo=spring&logoColor=white)   
 <img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C.svg?style=flat&logo=spring&logoColor=white)   
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 
 
@@ -92,9 +92,6 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=gradle&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white)  
 
 
 ---
