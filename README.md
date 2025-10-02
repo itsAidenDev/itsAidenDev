@@ -14,8 +14,9 @@
 
 <img alt="Coding Banner" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/coding-banner-gif.gif?raw=true" width=1330 height=786 align="center"/>
 
+
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's connect and have a chat!💬
 </h1>
 
 <p align="center">
