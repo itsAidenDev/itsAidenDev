@@ -34,15 +34,25 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 
 
-### 🗄️ Databases  
+### 🗄️ Databases & Persistence 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
+
+
+### 👨‍💻 Testing & Documentation
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)  
+![Mockito](https://img.shields.io/badge/Mockito-1BC0C5.svg?style=flat&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black)  
 
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=gradle&logoColor=white)  
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white)  
