@@ -23,6 +23,8 @@
 <a href="https://dev.to/itsaidendev">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
+  <!-- - 🌐 Portfolio: [your-portfolio-link](#)  -->
+
 </p>
 
 ---
@@ -122,16 +124,6 @@ Here are some of my highlighted works:
 
 
 ---
-
-
-## 📫 Let's Connect!
-
-If you’d like to connect, collaborate, or just chat about tech:
-
-<!-- - 🌐 Portfolio: [your-portfolio-link](#)  -->
-- 💼 [LinkedIn]()  
-- 💻 [GitHub](#)  
-- ✉️ [Email](aiden95rg@gmail.com)
 
 
 ### Thanks for stopping by! 🙌
