@@ -49,6 +49,8 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 
 ## 🛠️ Tech Stack & Tools
 
+<img alt="Night Coding" src="night-dev.gif" align="right"/>
+
 ### 🧱 Languages & Frameworks  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
@@ -56,8 +58,6 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat&logo=spring-security&logoColor=white)  
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C.svg?style=flat&logo=spring&logoColor=white)   
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ### 🗄️ Databases & Persistence 
