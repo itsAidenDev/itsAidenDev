@@ -49,7 +49,7 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 
 ## 🛠️ Tech Stack & Tools
 
-<img alt="Night Coding" src="night-dev.gif" align="right"/>
+<img alt="Night Coding" src="" align="right"/>
 
 ### 🧱 Languages & Frameworks  
 
