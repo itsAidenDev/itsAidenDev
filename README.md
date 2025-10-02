@@ -48,15 +48,14 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 
 
 ---
-
 ## 🛠️ Tech Stack & Tools
+<img alt="Programming Languages PC" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/programming-languages-pc-gif.gif?raw=true" align="right" height=350 width=350/>
 
 ### 🧱 Languages & Frameworks  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)  
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat&logo=spring-security&logoColor=white)  
-<img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C.svg?style=flat&logo=spring&logoColor=white)   
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 
@@ -71,6 +70,7 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ### 🧪 Testing & Documentation
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)  
 ![Mockito](https://img.shields.io/badge/Mockito-1BC0C5.svg?style=flat&logoColor=white)  
+<img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black) 
 
