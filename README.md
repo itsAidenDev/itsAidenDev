@@ -68,32 +68,27 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 
 
 ### 👨‍💻 Operating Systems / Platforms 
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)
 <img alt="Night Coding" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/night-dev-gif.gif?raw=true" align="right"/>
 
 ### 🧪 Testing & Documentation
-![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)  
-![Mockito](https://img.shields.io/badge/Mockito-1BC0C5.svg?style=flat&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black) 
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)  ![Mockito](https://img.shields.io/badge/Mockito-1BC0C5.svg?style=flat&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black) 
 
 
 ### 📊 Productivity & Collaboration
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
 ![Taiga](https://img.shields.io/badge/Taiga-444444.svg?style=flat&logo=taiga&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%23007ACC.svg?style=flat&logo=jira&logoColor=white)  
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%23622D91.svg?style=flat&logo=microsoft-teams&logoColor=white)  
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%23622D91.svg?style=flat&logo=microsoft-teams&logoColor=white)  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=flat&logo=zoom&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)  
+
+
 
 
 ### 🗂️ Build & CI/CD Tools
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white)  
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=gradle&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white)  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=gradle&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
 
 
 ### ⚙️ Other Tools 
@@ -101,7 +96,11 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=virtualbox&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=canva&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white)   ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat&logo=powershell&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)  ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=flat&logo=obsidian&logoColor=white)  
+
 
 
 ---
