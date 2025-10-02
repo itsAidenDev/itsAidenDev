@@ -8,54 +8,62 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there, I'm Aiden!
+# Hi there, I'm Aiden 👋
 
-I'm an aspiring software developer currently focused on learning **Java** and building a solid foundation in **backend development**.
+💻 **Software Developer | Java & Spring Boot Specialist | Backend Enthusiast**
 
-- 🌱 Actively learning and experimenting with Java, Spring Framework, and database systems.  
-- 💻 Passionate about solving real-world problems through clean, efficient code.  
-- 🎯 Committed to mastering **object-oriented programming**, **clean code principles**, and **scalable project architecture**.  
-- 📚 Eager to grow as a developer and contribute to meaningful, open-source or collaborative projects.
+I build clean, scalable, and well-documented software solutions.  
+My main expertise is in **backend development with Java and Spring Boot**, complemented by skills in **REST APIs, database design, and frontend basics**.  
+
+---
+
+## 🚀 About Me
+- 🔭 Working on: **ITA Challenge** (Java + Spring Boot REST API)  
+- 💡 Experienced in building APIs, handling authentication, and database integration  
+- 🎯 Career Goal: Grow as a backend/full-stack developer and contribute to impactful projects  
+- 📍 Based in Barcelona
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 🧱 Languages & Frameworks  
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 
-</div>
 
 ### 🗄️ Databases  
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 
-</div>
 
 ### ⚙️ Tools & Platforms  
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/> &nbsp;
-<img src="![image](https://github.com/user-attachments/assets/33f10661-3422-4287-bebb-ddaf946775a3)" width="40" height="40" alt="Gradle"/>
-
-
-</div>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
 
 ---
 
+<!-- ## 📌 Featured Projects
+Here are some of my highlighted works:
+
+### 🔹 [Project 1: RESTful API Service](#)
+- **Tech:** Java, Spring Boot, MySQL  
+- Authentication with JWT, CRUD operations, Swagger documentation  
+- Includes unit tests with JUnit and Mockito  
+- [View Repository](#) | [Live Demo](#)
+
+### 🔹 [Project 2: Personal Portfolio Website](#)
+- **Tech:** HTML, CSS, JavaScript  
+- Responsive design showcasing my work & skills  
+- [View Repository](#) | [Live Demo](#)
+
+--- -->
+
 ## 🧠 Currently Learning
 
-- 🧩 Software design principles (SOLID, DRY, KISS)
-- 🌐 REST APIs and web backend architecture
 - 🔐 Cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics)
 
 ---
@@ -64,7 +72,8 @@ I'm an aspiring software developer currently focused on learning **Java** and bu
 
 If you’d like to connect, collaborate, or just chat about tech:
 
-- 🌐 [LinkedIn](#)  
+<!-- - 🌐 Portfolio: [your-portfolio-link](#)  -->
+- 💼 [LinkedIn](#)  
 - 💻 [GitHub](#)  
 - ✉️ [Email](aiden95rg@gmail.com)
 
