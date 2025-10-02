@@ -21,11 +21,18 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aiden-romero-garcia/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" src="https://github.com/user-attachments/assets/5130fb54-61cf-4853-b40b-5197ad4d7ab6"/>
 </a>
+
+<!--
 <a href="https://dev.to/itsaidendev">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
+-->
+
+<a href="https://discord.com/users/yumenushii">
+  <img height="50" src="https://github.com/user-attachments/assets/dfa70b4c-6a1e-41b9-98cf-7728ca59a794" />
+<a/>
   <!-- - 🌐 Portfolio: [your-portfolio-link](#)  -->
 
 </p>
