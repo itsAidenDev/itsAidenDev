@@ -38,11 +38,16 @@
 </h2>
 
 <p align="center">
-  ➡️
+  <img height="50" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/neon-arrow.png?raw=true"/> 
+  <img height="50" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/neon-arrow.png?raw=true"/>
+  
   <a href="https://tu-portfolio-link.com" target="_blank">
     <img height="100" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/portfolio-icon-github.png?raw=true"/>
   </a>
-  ⬅️
+  
+  <img height="50" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/neon-arrow-left.png?raw=true"/>
+  <img height="50" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/neon-arrow-left.png?raw=true"/>
+
 </p>
 
 
