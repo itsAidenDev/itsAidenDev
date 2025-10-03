@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="https://dev.to/itsaidendev">
-  <img height="70" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/portfolio-icon-github.png?raw=true"/>
+  <img height="100" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/portfolio-icon-github.png?raw=true"/>
 </a>
 
 ---
