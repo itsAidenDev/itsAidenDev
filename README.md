@@ -38,9 +38,14 @@
 </h2>
 
 <p align="center">
-<a href="https://dev.to/itsaidendev">
-  <img height="100" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/portfolio-icon-github.png?raw=true"/>
-</a>
+  ➡️
+  <a href="https://tu-portfolio-link.com" target="_blank">
+    <img height="100" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/portfolio-icon-github.png?raw=true"/>
+  </a>
+  ⬅️
+</p>
+
+
 
 ---
 
