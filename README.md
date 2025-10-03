@@ -33,6 +33,7 @@
 </a>
 </p>
 
+<!--
 <h2 align="center">
   Check out my portfolio!
 </h2>
@@ -50,7 +51,7 @@
 
 </p>
 
-
+-->
 
 ---
 
