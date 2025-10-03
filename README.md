@@ -21,21 +21,26 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aiden-romero-garcia/">
-  <img height="50" src="https://github.com/user-attachments/assets/5130fb54-61cf-4853-b40b-5197ad4d7ab6"/>
+  <img height="50" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/linkedin-icon-github.png?raw=true"/>
 </a>
 
 <a href="https://dev.to/itsaidendev">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img height="50" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/dev-icon-github.png?raw=true"/>
 </a>
 
 <a href="#" title="Copy: yumenushii">
   <img height="50" src="https://github.com/user-attachments/assets/dfa70b4c-6a1e-41b9-98cf-7728ca59a794" />
-<a/>
-
-<!--
-  - 🌐 Portfolio: [your-portfolio-link](#)  -->
-
+</a>
 </p>
+
+<h2 align="center">
+  Check out my portfolio!
+</h2>
+
+<p align="center">
+<a href="https://dev.to/itsaidendev">
+  <img height="70" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/portfolio-icon-github.png?raw=true"/>
+</a>
 
 ---
 
