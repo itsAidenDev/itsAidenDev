@@ -33,7 +33,7 @@
 </a>  
 
 <a href="#" title="Copy: yumenushii">
-  <img height="50" src="https://github.com/user-attachments/assets/dfa70b4c-6a1e-41b9-98cf-7728ca59a794" />
+  <img height="50" src="https://github.com/itsAidenDev/itsAidenDev/blob/main/assets/discord-icon-github.png?raw=true" />
 </a>
 </p>
 
