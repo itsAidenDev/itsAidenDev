@@ -114,6 +114,8 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 ![Taiga](https://img.shields.io/badge/Taiga-444444.svg?style=flat&logo=taiga&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%23007ACC.svg?style=flat&logo=jira&logoColor=white)  
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%23622D91.svg?style=flat&logo=microsoft-teams&logoColor=white)  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=flat&logo=zoom&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)  
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=slack&logoColor=white)  
+
 
 
 
