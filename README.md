@@ -74,6 +74,7 @@ My main expertise is in **backend development with Java and Spring Boot**, compl
 - 🎯 Career Goal: Grow as a backend/full-stack developer and contribute to impactful projects.
 - 🔐 Currently learning cybersecurity fundamentals (network security, OWASP Top 10, and ethical hacking basics).
 - ✉️ You can shoot me an email at aidenromerogarcia@gmail.com! I'll try to respond as soon as I can.
+- 🌐 Available in: **English**, **Español**, **Català**, **日本語**  
 - 📍 Based in Barcelona.
 
 
